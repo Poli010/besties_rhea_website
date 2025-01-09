@@ -17,7 +17,7 @@ function Footer(){
                 <div className="footer_logo pt-3 pl-3" data-aos="fade-in">
                     <div className="logo h-[50px] w-[50px] rounded-[50%] flex items-center text-white xl:h-[60px] xl:w-[60px]">
                         <img src={bestieLogo} alt="bestie logo" title='bestie logo' className='h-full w-full object-cover rounded-[50%]'/>
-                        <h1 className='name ml-1 text-xl xl:text-2xl'>Besite's</h1>
+                        <h1 className='name ml-1 text-xl xl:text-2xl'>Bestie</h1>
                     </div>
                 </div>
                 <div className="footer_items pl-3 md:grid md:grid-cols-3 md:gap-x- ">
