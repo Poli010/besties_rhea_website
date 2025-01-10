@@ -25,32 +25,32 @@ function Footer(){
                         <div className="watch_usItem" data-aos="slide-right">
                             <h1 className='font-bold text-white text-[1rem] xl:text-[1.2rem]'>Watch us live:</h1>
                             <div className="facebook_main mt-2">
-                                <a href="https://www.facebook.com/Bestierheacloset" className='text-sm flex items-center transition hover:text-black duration-500 group'><FontAwesomeIcon icon={faFacebook} className='text-[1.4rem] mr-1 text-blue-700 group-hover:text-black transition duration-500'/> Bestie Rhea's Closet(Main)</a> 
+                                <a href="https://www.facebook.com/Bestierheacloset" target="_blank" rel="noopener" className='text-sm flex items-center transition hover:text-black duration-500 group'><FontAwesomeIcon icon={faFacebook} className='text-[1.4rem] mr-1 text-blue-700 group-hover:text-black transition duration-500'/> Bestie Rhea's Closet(Main)</a> 
                             </div>
                             <div className="tiktok mt-2">
-                                <a href="https://www.tiktok.com/@bestie_rhea" className='text-sm flex items-center transition hover:text-black duration-500 group'><FontAwesomeIcon icon={faTiktok} className='text-[1.4rem] mr-1'/>@besite_rhea</a> 
+                                <a href="https://www.tiktok.com/@bestie_rhea" target="_blank" rel="noopener" className='text-sm flex items-center transition hover:text-black duration-500 group'><FontAwesomeIcon icon={faTiktok} className='text-[1.4rem] mr-1'/>@besite_rhea</a> 
                             </div>
                         </div>
                         <div className="other_pages  mt-5 text-white" data-aos="slide-right">
                             <h1 className='font-bold text-white text-[1rem] xl:text-[1.2rem]'>Follow our other pages:</h1>
                             <div className="facebook_2 mt-2">
-                                <a href="https://www.facebook.com/Bestierheatrendy" className='text-sm flex items-center transition hover:text-black duration-500 group'><FontAwesomeIcon icon={faFacebook} className='text-[1.4rem] mr-1 text-blue-700 group-hover:text-black transition duration-500'/> Bestie Rhea's Trendy Collection</a> 
+                                <a href="https://www.facebook.com/Bestierheatrendy" target="_blank" rel="noopener" className='text-sm flex items-center transition hover:text-black duration-500 group'><FontAwesomeIcon icon={faFacebook} className='text-[1.4rem] mr-1 text-blue-700 group-hover:text-black transition duration-500'/> Bestie Rhea's Trendy Collection</a> 
                             </div>
                             <div className="facebook3 mt-2">
-                                <a href="https://www.facebook.com/Bestierheafashion" className='text-sm flex items-center transition hover:text-black duration-500 group'><FontAwesomeIcon icon={faFacebook} className='text-[1.4rem] mr-1 text-blue-700 group-hover:text-black transition duration-500'/> Bestie Rhea's Fashion Style</a> 
+                                <a href="https://www.facebook.com/Bestierheafashion" target="_blank" rel="noopener" className='text-sm flex items-center transition hover:text-black duration-500 group'><FontAwesomeIcon icon={faFacebook} className='text-[1.4rem] mr-1 text-blue-700 group-hover:text-black transition duration-500'/> Bestie Rhea's Fashion Style</a> 
                             </div>
                         </div> 
                     </div>
                     <div className="contact_us pl-1 mt-5 text-white " data-aos="slide-right">
                         <h1 className='font-bold text-white text-[1rem] xl:text-[1.2rem]'>Contact us via:</h1>
                         <div className="facebook_2 mt-2">
-                           <a href="" className='text-sm flex items-center transition hover:text-black duration-500 group'><FontAwesomeIcon icon={faWhatsapp} className='text-[1.4rem] mr-1 text-green-500 group-hover:text-black transition duration-500'/>+63-123-456-789</a> 
+                           <a href="https://wa.me/0565239677" target="_blank" rel="noopener" className='text-sm flex items-center transition hover:text-black duration-500 group'><FontAwesomeIcon icon={faWhatsapp} className='text-[1.4rem] mr-1 text-green-500 group-hover:text-black transition duration-500'/>056-523-9677</a> 
                         </div>
                         <div className="facebook_2 mt-2">
-                           <a href="mailto:bestiesRcloset@gmail.com" className='text-sm flex items-center transition hover:text-black duration-500'><FontAwesomeIcon icon={faEnvelope} className='text-[1.4rem] mr-1'/>bestiesRcloset@gmail.com</a> 
+                           <a href="mailto:Besties.fc@gmail.com" rel="noopener" className='text-sm flex items-center transition hover:text-black duration-500'><FontAwesomeIcon icon={faEnvelope} className='text-[1.4rem] mr-1'/>Besties.fc@gmail.com</a> 
                         </div>
                         <div className="facebook_2 mt-2">
-                           <a href="https://www.facebook.com/christine.geana" className='text-sm flex items-center transition hover:text-black duration-500 group'><FontAwesomeIcon icon={faFacebook} className='text-[1.4rem] mr-1 text-blue-700 group-hover:text-black transition duration-500'/> Bestie Rhea</a> 
+                           <a href="https://www.facebook.com/christine.geana" target="_blank" rel="noopener" className='text-sm flex items-center transition hover:text-black duration-500 group'><FontAwesomeIcon icon={faFacebook} className='text-[1.4rem] mr-1 text-blue-700 group-hover:text-black transition duration-500'/> Bestie Rhea</a> 
                         </div>
                     </div>
                     <div className="contact_us pl-1 mt-5 text-white" data-aos="slide-right">
