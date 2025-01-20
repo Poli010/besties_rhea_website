@@ -1,4 +1,4 @@
-import bestieImgage from './../../assets/bestie.jpg';
+import bestieImgage from './../../assets/bestie.png';
 import Aos from 'aos';
 import 'aos/dist/aos.css';
 import { useEffect } from 'react';
