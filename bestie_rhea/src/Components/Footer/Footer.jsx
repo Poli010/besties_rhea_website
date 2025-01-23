@@ -59,7 +59,7 @@ function Footer(){
                     </div>
                 </div>
                 <div className="putres border-t border-white w-screen h-[50px] text-white absolute bottom-0">
-                    <p className='text-[0.9rem] text-center mt-1'>Copyright <FontAwesomeIcon icon={faCopyright} className=''/>2024 | BESTIES TRENDY COLLECTION GARMENTS TRADING L.L.C</p>
+                    <p className='text-[0.9rem] text-center mt-1'>Copyright <FontAwesomeIcon icon={faCopyright} className=''/>2025 | BESTIES TRENDY COLLECTION GARMENTS TRADING L.L.C</p>
                 </div>
             </div>
         </>
