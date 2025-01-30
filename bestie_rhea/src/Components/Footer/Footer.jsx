@@ -47,7 +47,7 @@ function Footer(){
                            <a href="https://wa.me/0565239677" target="_blank" rel="noopener" className='text-sm flex items-center transition hover:text-black duration-500 group'><FontAwesomeIcon icon={faWhatsapp} className='text-[1.4rem] mr-1 text-green-500 group-hover:text-black transition duration-500'/>056-523-9677</a> 
                         </div>
                         <div className="facebook_2 mt-2">
-                           <a href="mailto:Besties.fc@gmail.com" rel="noopener" className='text-sm flex items-center transition hover:text-black duration-500'><FontAwesomeIcon icon={faEnvelope} className='text-[1.4rem] mr-1'/>Besties.fc@gmail.com</a> 
+                           <a href="mailto:info@bestiesuae.com" rel="noopener" className='text-sm flex items-center transition hover:text-black duration-500'><FontAwesomeIcon icon={faEnvelope} className='text-[1.4rem] mr-1'/>info@bestiesuae.com</a> 
                         </div>
                         <div className="facebook_2 mt-2">
                            <a href="https://www.facebook.com/christine.geana" target="_blank" rel="noopener" className='text-sm flex items-center transition hover:text-black duration-500 group'><FontAwesomeIcon icon={faFacebook} className='text-[1.4rem] mr-1 text-blue-700 group-hover:text-black transition duration-500'/> Bestie Rhea</a> 
