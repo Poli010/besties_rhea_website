@@ -25,7 +25,7 @@ function Navbar({toggleAboutUs}){
                 <nav className='"'>
                     <div className="business_name flex items-center ">
                         <img src={bestieLogo} title='bestie logo' className='fixed w-10 top-1 left-1 z-50 rounded-[100%] lg:top-[10px] lg:w-11 lg:left-4' />
-                        <h1 className="name fixed text-lg left-12 top-3 z-50 lg:top-5 lg:left-16 lg:text-2xl">Bestie</h1>
+                        <h1 className="name fixed text-lg left-12 top-3 z-50 lg:top-5 lg:left-16 lg:text-2xl">Besties</h1>
                         <FontAwesomeIcon icon={faBars} className='fixed right-3 top-3 text-2xl z-50 cursor-pointer lg:hidden ' onClick={open_options}/>
                     </div>
                     <ul className='fixed w-screen left-0 top-0 h-12 z-10 lg:h-16 bg-[#5868A8]' data-aos="zoom-out">
