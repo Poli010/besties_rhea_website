@@ -1,4 +1,4 @@
-import bestieLogo from './../../../public/bestie_logo.jfif';
+import bestieLogo from '../../assets/bestie_logo.jfif';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebook, faTiktok, faWhatsapp } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
@@ -59,7 +59,7 @@ function Footer(){
                     </div>
                 </div>
                 <div className="putres border-t border-white w-screen h-[50px] text-white absolute bottom-0">
-                    <p className='text-[0.9rem] text-center mt-1'>Copyright <FontAwesomeIcon icon={faCopyright} className=''/>2025 | BESTIES TRENDY COLLECTION GARMENTS TRADING L.L.C</p>
+                    <p className='text-[0.9rem] text-center mt-1'>Copyright <FontAwesomeIcon icon={faCopyright} className=''/>2026 | BESTIES TRENDY COLLECTION GARMENTS TRADING L.L.C</p>
                 </div>
             </div>
         </>

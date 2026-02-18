@@ -5,7 +5,7 @@ import { useState } from 'react';
 import Aos from 'aos';
 import 'aos/dist/aos.css';
 import { useEffect } from 'react';
-import bestieLogo from './../../../public/bestie_logo.jfif';
+import bestieLogo from '../../assets/bestie_logo.jfif';
 
 function Navbar({toggleAboutUs}){
     useEffect(() => {
